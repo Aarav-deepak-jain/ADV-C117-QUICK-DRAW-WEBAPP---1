@@ -1,0 +1,33 @@
+h1 {
+    background-color: goldenrod;
+}
+
+#label {
+    color: red;
+    font-size: 30px;
+}
+#confidence {
+    color: rgb(173, 0, 0);
+    font-size: 30px;
+}
+#sketch_draw {
+    color: rgb(79, 0, 0);
+    font-size: 20px;
+}
+
+body {
+    background-color: aqua;
+}
+
+#score {
+    float: left;
+    margin-left: 10px;
+    font-size: 25px;
+    color: black;
+}
+#timer {
+    float: right;
+    margin-right: 10px;
+    font-size: 25px;
+    color: black;
+}
